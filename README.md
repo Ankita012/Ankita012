@@ -1,3 +1,4 @@
+![logo](https://github.com/Ankita012/Ankita012/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ankita Kaushik</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
