@@ -12,7 +12,7 @@
 
 - 📝 I tried some blog [https://medium.com/@ankita.kaushik012](https://medium.com/@ankita.kaushik012)
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **Angular and react js**
 
 - 📫 How to reach me **ankita.kaushik012@gmail.com**
 
