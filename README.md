@@ -1,18 +1,15 @@
 ![logo](https://github.com/Ankita012/Ankita012/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ankita Kaushik</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Developer & Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita012&label=Profile%20views&color=0e75b6&style=flat" alt="ankita012" /> </p>
 
-- 🌱 I’m currently learning **.Net core**
-  
-- 📝 I’m currently practicing coding on https://www.codingninjas.com/studio/profile/ankita012
-
-- 📝 I tried some blog [https://medium.com/@ankita.kaushik012](https://medium.com/@ankita.kaushik012)
-
-- 💬 Ask me about **Angular and react js**
+- 🌱  A data-driven problem solver.
+- 📝 Expertise in full-stack development, specializing in modern frontend and backend technologies
+- 📝 Proven track record of delivering high performance web applications across RetailTech, FinTech, and HealthTech domains.
+- 💬 Standardized and transformed raw data from various sources into structured formats, improving data quality for analysis and reporting
 
 - 📫 How to reach me **ankita.kaushik012@gmail.com**
 
